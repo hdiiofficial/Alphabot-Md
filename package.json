@@ -1,5 +1,5 @@
 {
-  "name": "AlphabotMD",
+  "name": "hdiiofficial",
   "version": "1.0.5",
   "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "hdiiofficial",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
@@ -60,10 +60,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc/"
+    "url": "git+https://github.com/hdiiofficial/"
   },
   "bugs": {
-    "url": "https://github.com/zeeoneofc/"
+    "url": "https://github.com/hdiiofficial/"
   },
-  "homepage": "https://github.com/zeeoneofc/"
+  "homepage": "https://github.com/hdiiofficial/"
 }
